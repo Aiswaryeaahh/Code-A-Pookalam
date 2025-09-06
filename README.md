@@ -5,7 +5,9 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Your Details
-- [Aiswarya V S] - [Computer Science(CS-1)] - [S3]
+- [Aiswarya V S]
+- - [Computer Science(CS-1)]
+  - - [S3]
 
 
 
