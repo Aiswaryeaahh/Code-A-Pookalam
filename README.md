@@ -12,7 +12,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Hosted Pookalam Link
-NIL 
+Sice its a Python Turtle file, it can be run in local code editors!
 
 
 ### Pookalam Description
